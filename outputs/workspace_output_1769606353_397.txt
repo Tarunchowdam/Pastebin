@@ -1,0 +1,31 @@
+.
+├── README.md
+├── Screenshot 2026-01-28 082906.png
+├── Screenshot 2026-01-28 083005.png
+├── app
+│   ├── api
+│   │   ├── healthz
+│   │   │   └── route.ts
+│   │   └── pastes
+│   │       ├── [id]
+│   │       └── route.ts
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── p
+│   │   └── [id]
+│   │       └── page.tsx
+│   ├── page.tsx
+│   └── pages
+│       └── page.tsx
+├── lib
+│   ├── storage.ts
+│   └── types.ts
+├── next.config.js
+├── outputs
+│   ├── workspace_output_1769606350_6813.txt
+│   └── workspace_output_1769606353_397.txt
+├── package.json
+├── todo.md
+└── tsconfig.json
+
+11 directories, 18 files

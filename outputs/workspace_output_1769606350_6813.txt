@@ -1,0 +1,17 @@
+./.env.example
+./.gitignore
+./README.md
+./app/api/healthz/route.ts
+./app/api/pastes/[id]/route.ts
+./app/api/pastes/route.ts
+./app/globals.css
+./app/layout.tsx
+./app/p/[id]/page.tsx
+./app/page.tsx
+./app/pages/page.tsx
+./lib/storage.ts
+./lib/types.ts
+./next.config.js
+./package.json
+./todo.md
+./tsconfig.json

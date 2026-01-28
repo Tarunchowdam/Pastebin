@@ -1,0 +1,10 @@
+# Vercel KV (Redis) Configuration
+# Get these values from Vercel KV dashboard
+KV_URL=
+KV_REST_API_URL=
+KV_REST_API_TOKEN=
+KV_REST_API_READ_ONLY_TOKEN=
+
+# Test Mode (optional)
+# Set to 1 to enable deterministic time testing
+TEST_MODE=
